@@ -8,7 +8,7 @@ export function HomePage() {
             {/* UP BAR */}
             <div className="topContainer">
                 <div className="leftSide">
-                <img src="./NU_wordmark.svg.webp" height={50} style={{padding: "10px"}}></img>
+                <img src="./NU_wordmark.svg.webp" height={50} style={{padding: "10px"}} alt="National University"></img>
                 </div>
 
                 <div className="rightSide">
@@ -23,7 +23,7 @@ export function HomePage() {
             <div className="information">
             
                 <div className="right">
-                    <img src="https://static.wikitide.net/deathbattlewiki/8/8b/Portrait.denji.png" height={200} ></img>
+                    <img src="https://static.wikitide.net/deathbattlewiki/8/8b/Portrait.denji.png" height={200} alt="Profile Picture" ></img>
                 </div>
 
                 <div className="left">
