@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Geomini:wght@200..800&display=swap');
+
+.body {
+  
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  font-family: "Geomini", sans-serif;
+  color: #0B1215;
+  
+}
+
+.topContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  border-radius: 20px;
+  background-color: rgb(218, 220, 228);
+  box-shadow: 0 4px 8px rgb(185, 185, 185);
+}
+
+.rightSide {
+  font-size: 10px;
+  padding-right: 10px;
+}
+
+.topBarText {
+  padding-left: 200px;
+}
+
+.bottomContainer {
+  width: "100%";
+  text-align: center;
+  margin: 10px;
+  
+  
+}
+
+.cardsMainContainer { 
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  background-color: rgb(218, 220, 228);
+  box-shadow: 0 4px 8px rgb(185, 185, 185);
+  padding: 30px;
+}
+
+.cardsMainContainer h1 {
+  margin-top: -10px;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly; 
+}
+
+
+.cards {
+  background-color: rgba(99, 134, 230, 0.473);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgb(185, 185, 185);
+  padding: 5px 10px;
+  width: 200px;
+}
+.cards p {
+  margin-top: -9px;
+}
+
+.informationContainer {
+  border-radius: 20px;
+  background-color: rgb(218, 220, 228);
+  box-shadow: 0 4px 8px rgb(185, 185, 185);
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.information {
+  display: flex;
+  flex-direction: row;
+}
+
+.information .left {
+  margin-left: 100px;
+  text-align: justify;
+}
