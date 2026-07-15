@@ -1,5 +1,4 @@
 import './App.css'; 
-import Consume from './components/Consume'; 
 import HomePage from './components/HomePage'; 
  
 function App() { 
