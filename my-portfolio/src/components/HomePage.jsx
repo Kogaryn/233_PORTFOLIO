@@ -23,7 +23,7 @@ export function HomePage() {
             <div className="information">
             
                 <div className="right">
-                    <img src="https://static.wikitide.net/deathbattlewiki/8/8b/Portrait.denji.png" height={200} alt="Profile Picture" ></img>
+                    <img src="https://static.wikitide.net/deathbattlewiki/8/8b/Portrait.denji.png" height={200} alt="Profile" ></img>
                 </div>
 
                 <div className="left">
